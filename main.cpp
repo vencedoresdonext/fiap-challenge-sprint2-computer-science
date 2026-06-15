@@ -1,7 +1,7 @@
-const int usuario = 2;
-const int veiculo = 3;
-const int energia = 4;
-const int pico = 5;
+const char usuario = A0;
+const char veiculo = A1;
+const char energia = A2;
+const char pico = A3;
 
 const int ledVerde = 12;
 const int ledVermelho = 13;
